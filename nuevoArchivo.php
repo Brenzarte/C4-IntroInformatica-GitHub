@@ -1,1 +1,1 @@
-Este es un archivo PHP
+Actualización de PHP
