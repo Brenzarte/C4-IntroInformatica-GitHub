@@ -1,4 +1,6 @@
 # CTD-Desafio1
 Git + GitHub
 
-Untracked :exclamation: Added :100: Modified :warning:
++ **__Untracked :exclamation:__**
++ **__Added :100:__**
++ **__Modified :warning__**
